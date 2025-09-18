@@ -1,4 +1,4 @@
-<h1 align="center">👋 Walter Nicolás Piedrabuena</h1>
+<h1 align="center">Soy Walter Nicolás Piedrabuena</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,18 +7,14 @@
 </p>
 
 <!-- CONTACTO -->
-<p align="center">
-  <a href="mailto:wpiedrabuena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wpiedrabuena%40gmail.com-1f6feb?style=for-the-badge" alt="Email" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/walter-piedrabuena/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wpiedrabuena@gmail.com&su=Contacto%20desde%20GitHub&body=Hola%20Walter%2C%0A">
-    <img src="https://img.shields.io/badge/Gmail-Compose-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Compose" />
-  </a>
-  <a href="https://www.linkedin.com/in/walter-piedrabuena/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:wpiedrabuena@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
 ---
 
 ## 🚀 Sobre mí
