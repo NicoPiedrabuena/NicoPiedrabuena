@@ -1,19 +1,18 @@
-# 👨‍💻 Sobre mí  
+<h1 align="center">👋 Walter Nicolás Piedrabuena</h1>
 
-Me llamo **Walter Nicolás Piedrabuena**, tengo **31 años** y soy de Argentina.  
-💻 **Desarrollador de Software** con más de **3 años de experiencia** creando soluciones tecnológicas.  
-
-- 🌱 Siempre en constante aprendizaje y mejora continua.  
-- ⚡ Me apasiona tanto el **backend** como el **frontend**.  
-- 🚀 Actualmente trabajando con **Laravel, PHP, Java, React, Next.js, SQL**.  
-- 🎯 Mi objetivo es crecer profesionalmente y aportar valor en cada desarrollo.  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 📬 Contactate conmigo  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-piedrabuena/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)  
+## 🚀 Sobre mí
+- 🌱 Siempre en constante aprendizaje y mejora continua.  
+- ⚡ Me apasiona tanto el **backend** como el **frontend**.  
+- 🚀 Experiencia con **Laravel, PHP, Java, React, Next.js, SQL**.  
+- 🎯 Mi objetivo es crecer profesionalmente y aportar valor en cada desarrollo.  
 
 ---
 
@@ -22,7 +21,7 @@ Me llamo **Walter Nicolás Piedrabuena**, tengo **31 años** y soy de Argentina.
 <p align="center">
   <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
