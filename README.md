@@ -54,15 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman"/>
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walternp&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walternp&layout=compact&theme=tokyonight" height="160" />
-</p>
-
+ 
 ---
 
 ✨ _"El progreso no llega de golpe, se construye con cada línea de código y cada desafío superado."_  
